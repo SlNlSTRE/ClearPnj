@@ -1,3 +1,7 @@
+---discord= Sinistre#9906
+---discord= Shazuub#7284
+
+
 local config = {
     pedFrequency = 1.0,
     trafficFrequency = 1.0,
